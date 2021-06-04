@@ -1,0 +1,15 @@
+#556 minecraft:beach
+#3B7 twilightforest:dense_mushroom_forest
+#08A twilightforest:fire_swamp
+#010 minecraft:forest
+#005 biomesoplenty:gravel_beach
+#082 twilightforest:lake
+#79A minecraft:lukewarm_ocean
+#6C1 biomesoplenty:lush_savanna
+#20D biomesoplenty:marsh
+#4F1 minecraft:ocean
+#3DC minecraft:plains
+#5FF minecraft:river
+#462 biomesoplenty:shrubland_hills
+#144 twilightforest:thornlands
+#452 minecraft:wooded_hills
