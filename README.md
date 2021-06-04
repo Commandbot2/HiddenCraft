@@ -1,3 +1,3 @@
 # HiddenCraft Info
 
-<l><a href="Website">Website</a></l>
+<l><a href="https://commandbot2.github.io/HiddenCraft/">Website</a></l>
